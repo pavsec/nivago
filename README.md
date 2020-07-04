@@ -1,0 +1,3 @@
+## Nivago zadaci  
+1. Izvlačenje podataka iz gotove XML sheme s [linka](http://www.elektroprofi.hr/api/demo.php): date, number i description  
+2. Query koji izvlači imena iz kategorije "imenik" i sortira ih po abecednom redu. Mogućnost da se promjeni imena i da se može sortirati svi unosi u periodu od 2010-2020 godine. Prilikom prikaza rezultata, osim imena sa linkom, treba prikazati i sliku (samo link do nje, nije potrebno stavljati sliku) i datum.
