@@ -55,6 +55,8 @@
 
 		}
 
+		mysqli_free_result($q);
+		mysqli_close($link);
 		?>
 
 		<br>
